@@ -1,7 +1,15 @@
-# Patient Encounter Counter App
+# Patient N-Counter - learning to code for the web and Android
 
-I want to keep track of the number of patients I see in the emergency department and keep track with my phone.
+Originally called Patient Encounter Counter, I switched it to Patient N-counter. Creates a more mathematcial looking name and not so repetitive.
 
-I also want to learn a little coding and creating android applications. 
+Simple counter for me to enter the number of patients I saw on a particular shift.
 
-To be continued ...
+#Step one: #
+Create MERN stack for online Patient N-counter
+- Learn javascript
+- learn server-side database with MondoDB
+- learn Node.Js, ReactJs (client-side) and ExpressJS (server-side)
+
+#Step two:#
+Create Android app for Patient N-counter.
+- to be developed ...
